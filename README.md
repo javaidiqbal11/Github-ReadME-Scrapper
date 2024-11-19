@@ -14,3 +14,8 @@ Python 3.7 or above
 requests library
 beautifulsoup4 for HTML parsing
 GitHub API credentials (for higher rate limits)
+
+## Install Dependencies
+```bash
+pip install -r requirements.txt
+```
