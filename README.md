@@ -1,5 +1,6 @@
 # Github ReadME Scrapper
 A powerful tool to scrape and analyze README files from public GitHub repositories. This project simplifies the process of extracting structured data from README files, enabling easier data analysis, machine learning integration, or general exploration.
+--- 
 
 ## Features
 - Scrape README Files: Extract README content from any public GitHub repository.
