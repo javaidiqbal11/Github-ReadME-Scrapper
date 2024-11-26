@@ -12,7 +12,7 @@ A powerful tool to scrape and analyze README files from public GitHub repositori
 - Integration-Ready: Easy to integrate into larger workflows or pipelines.
 
 ## Requirements
-- Python 3.7 or above 
+- Python 3.10
 - requests library
 - beautifulsoup4 for HTML parsing
 - GitHub API credentials (for higher rate limits)
