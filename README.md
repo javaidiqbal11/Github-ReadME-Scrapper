@@ -13,6 +13,7 @@ A powerful tool to scrape and analyze README files from public GitHub repositori
 
 ## Setup
 - Python 3.10
+- Machine Learning libraries 
 - requests library
 - beautifulsoup4 for HTML parsing
 - GitHub API credentials (for higher rate limits)
