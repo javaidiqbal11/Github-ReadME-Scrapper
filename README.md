@@ -9,7 +9,7 @@ A powerful tool to scrape and analyze README files from public GitHub repositori
 - **Batch Processing:** Scrape multiple repositories at once.
 - **Output Formats:** Save extracted data in JSON, CSV, or other formats.
 - **Customizable Filters:** Target README files with specific keywords or structures.
-- Integration-Ready: Easy to integrate into larger workflows or pipelines.
+- **Integration-Ready:** Easy to integrate into larger workflows or pipelines.
 
 ## Setup
 - Python 3.10
