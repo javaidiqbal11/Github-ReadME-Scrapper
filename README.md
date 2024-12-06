@@ -11,7 +11,7 @@ A powerful tool to scrape and analyze README files from public GitHub repositori
 - Customizable Filters: Target README files with specific keywords or structures.
 - Integration-Ready: Easy to integrate into larger workflows or pipelines.
 
-## Requirements
+## Setup
 - Python 3.10
 - requests library
 - beautifulsoup4 for HTML parsing
