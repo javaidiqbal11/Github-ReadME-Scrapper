@@ -5,7 +5,7 @@ A powerful tool to scrape and analyze README files from public GitHub repositori
 
 ## Features
 - **Scrape README Files:** Extract README content from any public GitHub repository.
-- Search by Repository: Specify repositories to target.
+- **Search by Repository:** Specify repositories to target.
 - Batch Processing: Scrape multiple repositories at once.
 - Output Formats: Save extracted data in JSON, CSV, or other formats.
 - Customizable Filters: Target README files with specific keywords or structures.
